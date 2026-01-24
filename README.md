@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Amrit Kumar Prasad 👋</h1>
+  <h1>Hi, I'm Amrit Kumar Prasad </h1>
   <h3>Full-Stack & AI-Focused Developer | IT Undergrad (2027)</h3>
   <p>
     <a href="https://linkedin.com/in/amrit-prasad-2b2b52309">LinkedIn</a> •
