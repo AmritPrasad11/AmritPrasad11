@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=300&color=gradient&text=Amrit%20Kumar%20Prasad&desc=FullStack%20and%20AI%20Developer" />
+</p>
+
 <div align="center">
   <h1>Hi, I'm Amrit Kumar Prasad </h1>
   <h3>Full-Stack & AI-Focused Developer | IT Undergrad (2027)</h3>
