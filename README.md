@@ -1,13 +1,13 @@
-<h1 align="center">Hi, I'm Amrit Kumar Prasad 👋</h1>
-<h3 align="center">Full-Stack & AI-Focused Developer | IT Undergrad (2027)</h3>
+<div align="center">
+  <h1>Hi, I'm Amrit Kumar Prasad 👋</h1>
+  <h3>Full-Stack & AI-Focused Developer | IT Undergrad (2027)</h3>
+  <p>
+    <a href="https://linkedin.com/in/amrit-prasad-2b2b52309">LinkedIn</a> •
+    <a href="https://amritprasad.vercel.app/">Portfolio</a> •
+    <a href="mailto:amritprasad4590@gmail.com">Email</a>
+  </p>
+</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/amrit-prasad-2b2b52309">LinkedIn</a> •
-  <a href="https://amritprasad.vercel.app/">Portfolio</a> •
-  <a href="mailto:amritprasad4590@gmail.com">Email</a>
-</p>
-
----
 
 ### 🚀 About Me
 I am an Information Technology undergraduate at **NIST University (Class of 2027)** with hands-on experience in full-stack development, UI/UX design, and AI-based systems. I have built real-world applications in environmental tech and contributed to production-grade web solutions during my internship.
