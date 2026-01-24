@@ -7,7 +7,10 @@
     <a href="mailto:amritprasad4590@gmail.com">Email</a>
   </p>
 </div>
----
+
+<hr/>
+⭐ Actively seeking internships, hackathons, and startup collaborations in Full-Stack / AI domains.
+
 
 ### 🚀 About Me
 I am an Information Technology undergraduate at **NIST University (Class of 2027)** specializing in full-stack development, UI/UX engineering, and AI-driven systems. I build production-ready web applications and data-driven platforms, with a focus on climate-tech and scalable digital products.
@@ -42,7 +45,7 @@ I am an Information Technology undergraduate at **NIST University (Class of 2027
 - Enabled early intervention workflows for conservation teams  
 
 **Tech:** Python, Deep Learning, Geospatial Data, Web UI  
-🔗 Repo: [link here] | Demo: [link here]
+🔗 Repo: Coming Soon | Demo: Coming Soon
 
 ---
 
@@ -54,7 +57,8 @@ I am an Information Technology undergraduate at **NIST University (Class of 2027
 - Provided early warning signals for disaster prevention  
 
 **Tech:** Python, Maps API, Weather Data, Web Stack  
-🔗 Repo: [link here] | Demo: [link here]
+🔗 Repo: Coming Soon | Demo: Coming Soon
+
 
 
 ---
@@ -70,17 +74,13 @@ I am an Information Technology undergraduate at **NIST University (Class of 2027
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AmritPrasad11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmritPrasad11&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Let’s Connect
 
 - LinkedIn: https://linkedin.com/in/amrit-prasad-2b2b52309  
 - Portfolio: https://amritprasad.vercel.app/  
 - Email: amritprasad4590@gmail.com  
+
+---
+
+_Last updated: Jan 2026_
