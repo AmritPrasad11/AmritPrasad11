@@ -7,10 +7,11 @@
     <a href="mailto:amritprasad4590@gmail.com">Email</a>
   </p>
 </div>
-
+---
 
 ### 🚀 About Me
-I am an Information Technology undergraduate at **NIST University (Class of 2027)** with hands-on experience in full-stack development, UI/UX design, and AI-based systems. I have built real-world applications in environmental tech and contributed to production-grade web solutions during my internship.
+I am an Information Technology undergraduate at **NIST University (Class of 2027)** specializing in full-stack development, UI/UX engineering, and AI-driven systems. I build production-ready web applications and data-driven platforms, with a focus on climate-tech and scalable digital products.
+
 
 - 🎓 B.Tech IT @ NIST University  
 - 💼 Software Development & UI/UX Intern @ Protionix Technology (Jul 2024 – Feb 2025)  
@@ -22,33 +23,39 @@ I am an Information Technology undergraduate at **NIST University (Class of 2027
 ### 🛠 Tech Stack
 
 **Languages:** Python, Java, C, JavaScript  
-**Web:** HTML, CSS, React.js  
+**Frontend:** HTML, CSS, React.js  
+**Backend (Basic):** Node.js, REST APIs  
 **Tools:** Git, GitHub, VS Code, Vercel  
 **Design:** Figma  
 **Core CS:** Data Structures, DBMS, Computer Networks, OOPS  
+
 
 ---
 
 ### 🧩 Featured Projects
 
-#### 🔹 AI-Based Deforestation Detection System  
-> AI-powered web app for Sundarbans conservation using satellite imagery and deep learning.  
-- Geospatial data processing  
-- Image classification models  
-- Early forest loss detection  
-- Environmental monitoring dashboard  
-**Tech:** Python, DL, Web UI  
+#### 🔹 AI-powered web application for monitoring forest loss in the Sundarbans using satellite imagery and deep learning.
+
+- Processed geospatial data for land-cover analysis  
+- Built image classification models for forest loss detection  
+- Designed dashboards for environmental monitoring  
+- Enabled early intervention workflows for conservation teams  
+
+**Tech:** Python, Deep Learning, Geospatial Data, Web UI  
 🔗 Repo: [link here] | Demo: [link here]
 
 ---
 
-#### 🔹 Forest Shield – Wildfire Prevention System  
-> Predicts fire outbreaks & simulates fire spread using satellite + weather data.  
-- Risk zone mapping  
-- Fire simulation engine  
-- Real-time data visualization  
-**Tech:** Python, Maps API, Web Stack  
+#### 🔹 Intelligent wildfire prediction and simulation platform using satellite, weather, and terrain data.
+
+- Identified high-risk zones using multi-source data  
+- Simulated fire spread for emergency planning  
+- Built interactive map-based visualization tools  
+- Provided early warning signals for disaster prevention  
+
+**Tech:** Python, Maps API, Weather Data, Web Stack  
 🔗 Repo: [link here] | Demo: [link here]
+
 
 ---
 
