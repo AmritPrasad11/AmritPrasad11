@@ -20,7 +20,7 @@
 I am an Information Technology undergraduate at **NIST University (Class of 2027)** specializing in full-stack development, UI/UX engineering, and AI-driven systems. I build production-ready web applications and data-driven platforms, with a focus on climate-tech and scalable digital products.
 
 
-- 🎓 B.Tech IT @ NIST University  
+- 🎓 B.Tech CSE @ NIST University  
 - 💼 Software Development & UI/UX Intern @ Protionix Technology (Jul 2024 – Feb 2025)  
 - 🏆 1st Place – Best Presentation Award, ZSI Hackathon (Sundarbans)  
 - 🌱 Interests: AI for Climate, Web Platforms, Product Engineering  
